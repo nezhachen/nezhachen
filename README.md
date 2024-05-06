@@ -11,7 +11,7 @@ Nowadays I am passionate about blockchain technologies so I'm mainly focusing on
 - 🤔 I’m looking to help with building, application specific blockchain, multichain bridging, defi, and web apps
 - 💬 Ask me about web and blockchain development
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Coding, Gaming
+- ⚡ Fun fact: Coding, Gaming, Discussing
 - 🏰 Strong: Strategic Game
 
 
